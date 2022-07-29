@@ -1,8 +1,8 @@
-# Saida-Moosavi
+# Saidemm
 
 Hey, I'm Saida! 👋 
 
-👉 A Full stack devlopper who likes to keep herself busy by building stuff on the side. Always ready for new chalanges.
+👉 A Full stack developer who likes to keep herself busy by building stuff on the side. Always ready for new challenges.
 
 </br>
 </br>
